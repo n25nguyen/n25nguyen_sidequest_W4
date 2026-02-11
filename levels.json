@@ -17,7 +17,7 @@
     },
     {
       "name": "Wonderland Steps",
-      "gravity": 0.45,
+      "gravity": 0.35,
       "jumpV": -11.0,
       "theme": { "bg": "#2D567A", "platform": "#A7F3D0", "blob": "#F472B6" },
       "start": { "x": 60, "y": 260, "r": 26 },
